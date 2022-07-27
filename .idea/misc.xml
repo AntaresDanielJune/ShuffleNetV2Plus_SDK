@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/../out" />
+  </component>
+  <component name="com.huawei.mind.studio.ssh.deploy.persistent.DeploySettingsState">
+    <option name="deployModels">
+      <list>
+        <DeployModel>
+          <option name="name" value="root@120.46.188.128:22" />
+          <option name="uuid" value="06f6c1eb-c6bc-4c6e-94cb-7dbff20cced5" />
+          <option name="deployConnectionModel" value="{&quot;deployConnectionType&quot;:&quot;SFTP&quot;,&quot;sshConnectionModel&quot;:{&quot;uuid&quot;:&quot;bde1aacf-df73-4b67-939b-b5f7d998de3b&quot;}}" />
+          <option name="deployMappingModels" value="[{&quot;deploymentPath&quot;:&quot;/root/MindStudio-WorkSpace/ShuffleNetV2Plus_SDK_4223459d&quot;,&quot;localPath&quot;:&quot;C:/Users/ZZL/AscendProjects/ShuffleNetV2Plus_SDK&quot;}]" />
+        </DeployModel>
+        <DeployModel>
+          <option name="name" value="ascend-x86_64-linux (b1147018-5fd5-4a53-86ab-4b1277c9391f)" />
+          <option name="relationToolChainsUuid" value="b1147018-5fd5-4a53-86ab-4b1277c9391f" />
+          <option name="uuid" value="82ff23dd-3230-4793-8b1e-a6c0cd0984a3" />
+          <option name="deployConnectionModel" value="{&quot;deployConnectionType&quot;:&quot;SFTP&quot;,&quot;sshConnectionModel&quot;:{&quot;uuid&quot;:&quot;bde1aacf-df73-4b67-939b-b5f7d998de3b&quot;}}" />
+          <option name="deployMappingModels" value="[{&quot;deploymentPath&quot;:&quot;/tmp/82ff23dd-3230-4793-8b1e-a6c0cd0984a3&quot;,&quot;localPath&quot;:&quot;C:\\Users\\ZZL\\AscendProjects\\ShuffleNetV2Plus_SDK&quot;}]" />
+        </DeployModel>
+      </list>
+    </option>
+  </component>
+</project>
