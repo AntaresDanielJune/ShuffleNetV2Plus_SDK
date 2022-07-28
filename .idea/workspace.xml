@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f342cab1-a2a2-419c-a364-a0b0c12e82d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2Bc20SbNPojdDCVdYHuu6BcW3QQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="default_deploy_id" value="06f6c1eb-c6bc-4c6e-94cb-7dbff20cced5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ZZL\AscendProjects\ShuffleNetV2Plus_SDK" />
+      <recent name="C:\Users\ZZL\AscendProjects\ShuffleNetV2Plus_SDK\model" />
+      <recent name="C:\Users\ZZL\AscendProjects\ShuffleNetV2Plus_SDK\pipeline" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ShuffleNetV2Plus_SDK" type="Ascend App Configuration Type" factoryName="Ascend App" executable="main.py" runMode="Remote" deployId="06f6c1eb-c6bc-4c6e-94cb-7dbff20cced5" commandArguments="" environmentVariables="">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Ascend App Configuration Type" factoryName="Ascend App" executable="" runMode="Remote" deployId="06f6c1eb-c6bc-4c6e-94cb-7dbff20cced5" commandArguments="" environmentVariables="">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
